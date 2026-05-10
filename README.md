@@ -1,2 +1,2 @@
 # Machine-learning
- sample Machine learning model and predictions
+Machine learning model and predictions
